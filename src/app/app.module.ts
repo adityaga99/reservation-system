@@ -38,6 +38,7 @@ import { DateTimePickerComponent } from './components/date-time-picker/date-time
 import { AdminComponent } from './components/admin/admin.component';
 import { AdminPageComponent } from './components/admin-page/admin-page.component';
 import { NewNavbarComponent } from './components/new-navbar/new-navbar.component';
+// import { FeedbackComponent } from './components/feedback/feedback.component';
 
 
 
@@ -60,6 +61,7 @@ import { NewNavbarComponent } from './components/new-navbar/new-navbar.component
     AdminComponent,
     AdminPageComponent,
     NewNavbarComponent,
+    // FeedbackComponent,
     // MatToolbarModule,
   ],
   imports: [
